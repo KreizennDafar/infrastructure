@@ -1,5 +1,6 @@
-[![Stories in Ready](https://badge.waffle.io/KreizennDafar/infrastructure.png?label=ready&title=Ready)](https://waffle.io/KreizennDafar/infrastructure)
 # infrastructure
+
+[![Stories in Ready](https://badge.waffle.io/KreizennDafar/infrastructure.png?label=ready&title=Ready)](https://waffle.io/KreizennDafar/infrastructure)
 
 Le but de ce repository est d'avoir un suivi des besoins en infrastructure de Kreizenn Dafar via les issues.
 
